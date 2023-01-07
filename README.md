@@ -3,9 +3,9 @@ Data science enthusiast with a passion for using data to drive business decision
 
 
 Skills:
-#Programming: Python, R, SQL
-#Machine Learning: supervised and unsupervised learning, deep learning
-#Data Visualization: Matplotlib, Seaborn, Plotly.
+Programming: Python, R, SQL
+Machine Learning: supervised and unsupervised learning, deep learning
+Data Visualization: Matplotlib, Seaborn, Plotly.
 
 
 # 💻 Tech Stack:
