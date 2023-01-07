@@ -1,11 +1,11 @@
 # 💫 About Me:
 Data science enthusiast with a passion for using data to drive business decisions and solve real-world problems. Skilled in Python, R, and SQL, with experience in machine learning, data visualization, and data engineering. Always looking to learn and tackle new challenges.
 
-Skills:
 
-Programming: Python, R, SQL
-Machine Learning: supervised and unsupervised learning, deep learning
-Data Visualization: Matplotlib, Seaborn, Plotly
+Skills:
+#Programming: Python, R, SQL
+#Machine Learning: supervised and unsupervised learning, deep learning
+#Data Visualization: Matplotlib, Seaborn, Plotly.
 
 
 # 💻 Tech Stack:
